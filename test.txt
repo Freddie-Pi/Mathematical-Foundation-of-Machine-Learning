@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hello
 This is my first project
+=======
+Hello
+>>>>>>> parent of c14f2cd (v2)
